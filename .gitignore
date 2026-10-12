@@ -1,0 +1,7 @@
+build/
+out/*.png
+!out/spheres.png
+!out/simple.png
+!out/cornell.png
+*.exe
+*.o
