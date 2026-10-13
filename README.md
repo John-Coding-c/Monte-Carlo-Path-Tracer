@@ -1,7 +1,6 @@
-# Raytracer
+# Monte Carlo Path Tracer
 
-A program I wrote from scratch in C++ that generates realistic 3D images by
-simulating how light actually behaves. No outside graphics library.
+A Path Tracer program I wrote in C++ with no external library. Based on Peter Shirley's Ray Tracing book series
 
 ![Cornell box render](out/cornell.png)
 
